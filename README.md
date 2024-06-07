@@ -5,7 +5,6 @@
 The Image Transform Project is part of the Object-Oriented Data Structures in C++ course.
 
 
-## Image Transform Project 
 
 - Use C++ to edit a png photo by hue, saturation, luminance (HSL)
   - change to black & white
