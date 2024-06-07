@@ -2,7 +2,7 @@
 
 ## Description
 
-The Image Transform Project is part of the Object-Oriented Data Structures in C++ course.
+The Image Transform Project is part of a Coursera course called "Object-Oriented Data Structures in C++".
 
 
 
